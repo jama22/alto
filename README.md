@@ -1,12 +1,20 @@
 # alto
 app to try out different deployments
 
-# Things I copied
+# Project Structure
+- `services/` has the main web app 
+- `other-apps/` has experimental mini apps
+
+# References (aka things I copied)
 Initial tutorial for getting a Flask proejct setup by Michael Herman
 - https://testdriven.io/blog/dockerizing-flask-with-postgres-gunicorn-and-nginx/#project-setup
 - https://github.com/testdrivenio/flask-on-docker
 
 - Bulma.io for CSS https://bulma.io/ 
+
+Spotipy
+- Spotipy library for Spotify API https://github.com/plamere/spotipy
+- Spotipy Flask example for authenticating and querying information about the user https://github.com/plamere/spotipy/blob/master/examples/app.py
 
 
 # Cheatsheet for running it
